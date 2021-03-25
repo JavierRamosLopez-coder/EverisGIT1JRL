@@ -14,7 +14,7 @@ public class App {
 	 */
 	public static void main(String[] args) {
 
-		System.out.println("HOOLA  MUNDO");
+		System.out.println("¡Adios Mundo!");
 
 	}
 
